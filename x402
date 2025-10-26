@@ -1,0 +1,7 @@
+cd /path/to/x402-source
+git init
+git add .
+git commit -m "Initial x402 demo"
+git remote add origin https://github.com/<dimdamfx27>/x402-source.git
+git branch -M main
+git push -u origin main
